@@ -1,6 +1,6 @@
 # 引言
 
-Slick（Scala Language-Integrated Connection Kit）是由 Lightbend 开发的函数式关系映射（Functional Relational Mapping）异步访问库，基于Scala语言编写。可以像使用Scala集合库一样的方式来处理SQL数据访问和存储，同时，它也可以直接使用SQL来访问数据库。
+Slick（Scala Language-Integrated Connection Kit）是由 Lightbend 开发的函数式关系映射（Functional Relational Mapping，FRM）异步访问库，基于Scala语言编写。可以像使用Scala集合库一样的方式来处理SQL数据访问和存储，同时，它也可以直接使用SQL来访问数据库。
 
 一个示例的数据访问代码如下：
 

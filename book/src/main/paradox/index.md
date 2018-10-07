@@ -1,6 +1,6 @@
 # Slick 开发
 
-@@toc { depth = 3 }
+@@toc { depth=3 }
 
 @@@ index
 
